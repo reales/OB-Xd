@@ -1,6 +1,6 @@
 # discoDSP OB-Xd 2
 ![OB-Xd](https://www.discodsp.com/img/obxd20.webp)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![License: Freeware](https://img.shields.io/badge/License-Freeware-green.svg)
 [![Latest Release](https://img.shields.io/github/v/release/reales/OB-Xd)](https://github.com/reales/OB-Xd/releases)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/reales/OB-Xd/commits/main)
 
