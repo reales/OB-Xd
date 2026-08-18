@@ -8,13 +8,13 @@
 
 **A free Oberheim OB-X–inspired synthesizer — actively maintained since 2014.**
 
-Latest release: **2.19 (December 2025)** · Windows • macOS • Linux · AAX • AU • LV2 • VST2 • VST3
+Latest release: **2.20 (August 2026)** · Windows • macOS • Linux · AAX • AU • LV2 • VST2 • VST3
 
 ### Download OB-Xd 2 — Free
 
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/reales/OB-Xd/releases/download/v2.19/OB-Xd.2.19.pkg)
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/reales/OB-Xd/releases/download/v2.19/Obxd219.exe)
-[![Download for Linux](https://img.shields.io/badge/Download-Linux_(.deb)-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/reales/OB-Xd/releases/download/v2.19/Obxd219.deb)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/reales/OB-Xd/releases/download/v2.20/OB-Xd.2.20.pkg)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/reales/OB-Xd/releases/download/v2.20/Obxd220.exe)
+[![Download for Linux](https://img.shields.io/badge/Download-Linux_(.deb)-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/reales/OB-Xd/releases/download/v2.20/Obxd220.deb)
 
 **Free for everything.** Personal use, commercial productions, client work — no restrictions, no registration, no catch.
 
@@ -22,7 +22,7 @@ Latest release: **2.19 (December 2025)** · Windows • macOS • Linux · AAX �
 
 ## About
 
-OB-Xd 2 recreates the sound and character of the legendary [Oberheim OB-X](https://en.wikipedia.org/wiki/Oberheim_OB-X). The original was limited in some important ways, so a number of features were added and refined over the original design. It has been developed and maintained by discoDSP since 2014, with regular updates and bug fixes — most recently in December 2025.
+OB-Xd 2 recreates the sound and character of the legendary [Oberheim OB-X](https://en.wikipedia.org/wiki/Oberheim_OB-X). The original was limited in some important ways, so a number of features were added and refined over the original design. It has been developed and maintained by discoDSP since 2014, with regular updates and bug fixes — most recently in August 2026.
 
 ## Key Features
 
@@ -46,7 +46,7 @@ OB-Xd 2 will remain free and maintained regardless — OB-Xd 3 is for those who 
 - **2014–present** — Continued development and maintenance by discoDSP
 - **December 2022** — Private use license granted by the original author
 - **2023–2024** — OB-Xd 3 developed by discoDSP together with original author 2Dat, with a synthesis engine rewritten from scratch
-- **2025** — Ongoing active maintenance (latest release 2.19, December 2025)
+- **2025** — Ongoing active maintenance (latest release 2.20, August 2026)
 
 ## Building from Source
 
